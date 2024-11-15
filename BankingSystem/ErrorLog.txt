@@ -1,0 +1,15 @@
+
+Insufficient balance!
+Insufficient balance!
+Cannot add or update a child row: a foreign key constraint fails (`bankingsystem`.`user`, CONSTRAINT `user_ibfk_1` FOREIGN KEY (`AccountNumber`) REFERENCES `account1` (`AccountNumber`))
+No value specified for parameter 4
+No value specified for parameter 4
+Cannot add or update a child row: a foreign key constraint fails (`bankingsystem`.`user`, CONSTRAINT `user_ibfk_1` FOREIGN KEY (`AccountNumber`) REFERENCES `account1` (`AccountNumber`))
+No value specified for parameter 4
+Error:Invalid input!
+Error:Invalid input
+Error:Invalid input
+Error:Invalid input
+Error:Insufficient balance of Account Number:999
+Error:Insufficient balance of Account Number:999
+Error:Insufficient balance of Account Number:999
